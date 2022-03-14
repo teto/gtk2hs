@@ -130,7 +130,7 @@ Flag fmode-binary
 
 custom-setup
   setup-depends: base >= 4.6,
-                 Cabal >= 2.0 && < 3.7,
+                 Cabal >= 2.0,
                  gtk2hs-buildtools >= 0.13.2.0 && < 0.14
 
 Library
